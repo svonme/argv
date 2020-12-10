@@ -1,0 +1,26 @@
+{
+  "name": "@fengqiaogang/argv",
+  "version": "1.0.0",
+  "description": "process argv",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node ./test/demo.js --w --a 123 --b 456 --c --d 789"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svonme/argv.git"
+  },
+  "author": "svon.me@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/svonme/argv/issues"
+  },
+  "homepage": "https://github.com/svonme/argv#readme",
+  "dependencies": {},
+  "devDependencies": {},
+  "files": [
+    "src/",
+    "README.md",
+    "package.json"
+  ]
+}
